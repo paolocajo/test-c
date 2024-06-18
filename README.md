@@ -1,55 +1,55 @@
-# Nombre del Proyecto
+# Project Name
 
-Una breve descripción del proyecto, incluyendo su propósito y funcionalidades principales.
+A brief description of the project, including its purpose and main features.
 
-## Índice
+## Table of Contents
 
-- [Introducción](#introducción)
-- [Características](#características)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Introducción
+## Introduction
 
-Aquí puedes proporcionar más detalles sobre el proyecto, por qué existe y qué problema resuelve.
+Provide more details about the project, why it exists, and what problem it solves.
 
-## Características
+## Features
 
-- Característica 1: Descripción breve.
-- Característica 2: Descripción breve.
-- Característica 3: Descripción breve.
+- Feature 1: Brief description.
+- Feature 2: Brief description.
+- Feature 3: Brief description.
 
-## Instalación
+## Installation
 
-### Prerrequisitos
+### Prerequisites
 
-- Lista de prerrequisitos necesarios para ejecutar el proyecto (por ejemplo, versiones de software, bibliotecas).
+- List of prerequisites needed to run the project (e.g., software versions, libraries).
 
-### Pasos de instalación
+### Installation Steps
 
-1. Clona el repositorio:
+1. Clone the repository:
     ```bash
-    git clone https://github.com/tuusuario/tu-repositorio.git
+    git clone https://github.com/yourusername/your-repository.git
     ```
-2. Navega al directorio del proyecto:
+2. Navigate to the project directory:
     ```bash
-    cd tu-repositorio
+    cd your-repository
     ```
-3. Instala las dependencias:
+3. Install the dependencies:
     ```bash
     npm install
     ```
-    o
+    or
     ```bash
     pip install -r requirements.txt
     ```
 
-## Uso
+## Usage
 
-Proporciona ejemplos sobre cómo usar el proyecto. Incluye fragmentos de código y comandos si es necesario.
+Provide examples on how to use the project. Include code snippets and commands if necessary.
 
 ```bash
 npm start
